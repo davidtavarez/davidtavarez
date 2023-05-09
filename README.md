@@ -1,1 +1,2 @@
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidtavarez&show_icons=true&theme=highcontrast&count_private=false)
+![Overview](https://raw.githubusercontent.com/davidtavarez/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Languages](https://raw.githubusercontent.com/davidtavarez/github-stats/master/generated/languages.svg#gh-dark-mode-only)
